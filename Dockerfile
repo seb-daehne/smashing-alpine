@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.9.4
 LABEL maintainer "Sebastian Daehne <daehne@rshc.de>"
 
 # update and add dependencies
